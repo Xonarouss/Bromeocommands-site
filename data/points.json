@@ -1,0 +1,8 @@
+[
+  {
+    "title": "Random sound effect",
+    "costPoints": 1000,
+    "description": "Speelt een random sound effect af.",
+    "notes": "Cooldown en sound pool worden beheerd in Twitch/Lumia."
+  }
+]

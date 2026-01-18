@@ -1,0 +1,18 @@
+[
+  {
+    "command": "!spin",
+    "title": "Spin het challenge rad",
+    "description": "Draait het rad en start de gekozen challenge.",
+    "roles": ["viewer"],
+    "category": "challenge",
+    "cooldownSec": 30
+  },
+  {
+    "command": "!spin challenge",
+    "title": "Respin (mods)",
+    "description": "Mods kunnen het rad opnieuw draaien (bij bug / verkeerde uitkomst).",
+    "roles": ["mod"],
+    "category": "mod-tools",
+    "cooldownSec": 0
+  }
+]
