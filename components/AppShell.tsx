@@ -158,7 +158,15 @@ export default function AppShell() {
                 Tip: gebruik de zoekbalk en filters om snel te vinden wat je nodig hebt. Als je inlogt met Twitch krijg je automatisch je rollen (mod/vip/sub) en zie je in één oogopslag wat jij kan.
               </div>
               <div className="text-zinc-600">
-                Gemaakt voor BromeoLIVE — thema gebaseerd op het logo (goud/zwart).
+                Gemaakt voor BromeoLIVE — met liefde door{' '}
+                <a
+                  className="underline hover:text-zinc-400"
+                  href="https://xonarous.nl"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Xonarous
+                </a>
               </div>
             </div>
           </footer>
