@@ -7,7 +7,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "node .next/standalone/server.js",
-    "lint": "next lint"
+    "lint": "next lint",
+    "postbuild": "mkdir -p .next/standalone/.next && cp -r .next/static .next/standalone/.next/static && cp -r public .next/standalone/public"
   },
   "dependencies": {
     "clsx": "^2.1.1",

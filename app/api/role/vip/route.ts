@@ -1,20 +1,19 @@
-import { NextResponse } from 'next/server';
-import { getServerSession } from 'next-auth/next';
-import { authOptions } from '@/lib/auth';
-import { getBroadcasterId, helix } from '@/lib/twitchServer';
+import { getServerSession } from "next-auth";
+import { authOptions } from "@/lib/auth";
+import { getBroadcasterId, helix } from "@/lib/twitchServer";
 
 export async function GET() {
-  const session = await getServerSession(authOptions);
-  const userId = (session?.user as any)?.twitchUserId as string | undefined;
-  if (!userId) return NextResponse.json({ isVip: false });
-
   try {
+    const session = await getServerSession(authOptions);
+    const userId = (session?.user as any)?.twitchUserId;
+    if (!userId) return Response.json({ isVip: false });
+
     const broadcasterId = getBroadcasterId();
-    const data = await helix<{ data: Array<{ user_id: string }> }>(
+    const data = await helix<{ data: any[] }>(
       `/channels/vips?broadcaster_id=${encodeURIComponent(broadcasterId)}&user_id=${encodeURIComponent(userId)}`
     );
-    return NextResponse.json({ isVip: (data.data?.length ?? 0) > 0 });
-  } catch {
-    return NextResponse.json({ isVip: false });
+    return Response.json({ isVip: Array.isArray(data.data) && data.data.length > 0 });
+  } catch (e: any) {
+    return Response.json({ isVip: false, error: e?.message ?? "error" }, { status: 200 });
   }
 }
