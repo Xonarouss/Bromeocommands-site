@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background: #000;
+  color: #fff;
+}
+
+.bg-bromeo {
+  background-image: radial-gradient(1200px circle at 20% -10%, rgba(231,184,43,0.15), transparent 40%);
+}
