@@ -14,6 +14,7 @@ type CommandItem = {
   description: string;
   roles: Role[];
   category?: string;
+  aliases?: string[];
   cooldownSec?: number;
 };
 
@@ -43,7 +44,8 @@ export default function CommandTab({ roles }: { roles: RolesState }) {
           it.command.toLowerCase().includes(query) ||
           it.title.toLowerCase().includes(query) ||
           it.description.toLowerCase().includes(query) ||
-          (it.category ?? '').toLowerCase().includes(query)
+          (it.category ?? '').toLowerCase().includes(query) ||
+          (it.aliases ?? []).some((a) => a.toLowerCase().includes(query))
         );
       })
       .filter((it) => {

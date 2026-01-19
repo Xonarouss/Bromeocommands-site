@@ -10,6 +10,7 @@ type CommandItem = {
   description: string;
   roles: Role[];
   category?: string;
+  aliases?: string[];
   cooldownSec?: number;
 };
 
@@ -60,6 +61,11 @@ export default function CommandCard({
       <div className="mt-3">
         <div className="text-base font-extrabold">{item.title}</div>
         <div className="mt-1 text-sm text-zinc-300">{item.description}</div>
+        {item.aliases && item.aliases.length ? (
+          <div className="mt-2 text-xs text-zinc-400">
+            <span className="font-semibold text-zinc-300">Aliases:</span> {item.aliases.map((a) => (a.startsWith('!') ? a : `!${a}`)).join(', ')}
+          </div>
+        ) : null}
       </div>
 
       <div className="mt-4 flex flex-wrap gap-2">

@@ -46,7 +46,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "games",
     "cooldownSec": 0
   },
   {
@@ -56,7 +56,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "info",
     "cooldownSec": 0
   },
   {
@@ -66,7 +66,7 @@
     "roles": [
       "broadcaster"
     ],
-    "category": "bits",
+    "category": "info",
     "cooldownSec": 0
   },
   {
@@ -76,7 +76,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "info",
     "cooldownSec": 0
   },
   {
@@ -86,7 +86,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "ai",
     "cooldownSec": 0,
     "aliases": [
       "bromeoassist",
@@ -310,7 +310,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "info",
     "cooldownSec": 0
   },
   {
@@ -320,7 +320,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "info",
     "cooldownSec": 0
   },
   {
@@ -330,7 +330,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "music",
     "cooldownSec": 0
   },
   {
@@ -340,7 +340,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "fun",
     "cooldownSec": 0
   },
   {
@@ -350,7 +350,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "info",
     "cooldownSec": 0
   },
   {
@@ -360,7 +360,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "info",
     "cooldownSec": 0
   },
   {
@@ -370,7 +370,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "info",
     "cooldownSec": 0
   },
   {
@@ -380,7 +380,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "games",
     "cooldownSec": 0
   },
   {
@@ -390,7 +390,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "info",
     "cooldownSec": 0
   },
   {
@@ -400,7 +400,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "games",
     "cooldownSec": 0
   },
   {
@@ -410,7 +410,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "info",
     "cooldownSec": 0
   },
   {
@@ -420,7 +420,7 @@
     "roles": [
       "broadcaster"
     ],
-    "category": "general",
+    "category": "fortnite",
     "cooldownSec": 0
   },
   {
@@ -430,7 +430,7 @@
     "roles": [
       "broadcaster"
     ],
-    "category": "general",
+    "category": "fun",
     "cooldownSec": 0,
     "aliases": [
       "late",
@@ -444,7 +444,7 @@
     "roles": [
       "broadcaster"
     ],
-    "category": "general",
+    "category": "info",
     "cooldownSec": 0
   },
   {
@@ -454,7 +454,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "giveaway",
     "cooldownSec": 0
   },
   {
@@ -464,7 +464,7 @@
     "roles": [
       "broadcaster"
     ],
-    "category": "general",
+    "category": "fun",
     "cooldownSec": 0,
     "aliases": [
       "goeiemorgen",
@@ -481,7 +481,7 @@
     "roles": [
       "broadcaster"
     ],
-    "category": "general",
+    "category": "fun",
     "cooldownSec": 0
   },
   {
@@ -491,7 +491,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "fun",
     "cooldownSec": 0
   },
   {
@@ -501,7 +501,7 @@
     "roles": [
       "broadcaster"
     ],
-    "category": "general",
+    "category": "fun",
     "cooldownSec": 0
   },
   {
@@ -511,7 +511,7 @@
     "roles": [
       "broadcaster"
     ],
-    "category": "general",
+    "category": "fun",
     "cooldownSec": 0
   },
   {
@@ -521,7 +521,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "info",
     "cooldownSec": 0
   },
   {
@@ -531,7 +531,7 @@
     "roles": [
       "broadcaster"
     ],
-    "category": "general",
+    "category": "fun",
     "cooldownSec": 0
   },
   {
@@ -541,7 +541,7 @@
     "roles": [
       "broadcaster"
     ],
-    "category": "general",
+    "category": "fun",
     "cooldownSec": 0
   },
   {
@@ -551,7 +551,7 @@
     "roles": [
       "broadcaster"
     ],
-    "category": "general",
+    "category": "scenes",
     "cooldownSec": 0
   },
   {
@@ -561,7 +561,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "info",
     "cooldownSec": 0
   },
   {
@@ -571,7 +571,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "queue",
     "cooldownSec": 0
   },
   {
@@ -581,7 +581,7 @@
     "roles": [
       "broadcaster"
     ],
-    "category": "general",
+    "category": "fun",
     "cooldownSec": 0
   },
   {
@@ -591,7 +591,7 @@
     "roles": [
       "broadcaster"
     ],
-    "category": "general",
+    "category": "fortnite",
     "cooldownSec": 0
   },
   {
@@ -601,7 +601,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "moderation",
     "cooldownSec": 0
   },
   {
@@ -611,7 +611,7 @@
     "roles": [
       "broadcaster"
     ],
-    "category": "general",
+    "category": "queue",
     "cooldownSec": 0
   },
   {
@@ -621,7 +621,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "music",
     "cooldownSec": 0
   },
   {
@@ -631,7 +631,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "alerts",
     "cooldownSec": 0
   },
   {
@@ -641,7 +641,7 @@
     "roles": [
       "broadcaster"
     ],
-    "category": "general",
+    "category": "fun",
     "cooldownSec": 0
   },
   {
@@ -651,7 +651,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "music",
     "cooldownSec": 0
   },
   {
@@ -661,7 +661,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "music",
     "cooldownSec": 0
   },
   {
@@ -671,7 +671,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "fun",
     "cooldownSec": 0
   },
   {
@@ -681,7 +681,7 @@
     "roles": [
       "broadcaster"
     ],
-    "category": "general",
+    "category": "fun",
     "cooldownSec": 0
   },
   {
@@ -691,7 +691,7 @@
     "roles": [
       "broadcaster"
     ],
-    "category": "general",
+    "category": "fun",
     "cooldownSec": 0
   },
   {
@@ -701,7 +701,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "music",
     "cooldownSec": 0
   },
   {
@@ -711,7 +711,7 @@
     "roles": [
       "mod"
     ],
-    "category": "points",
+    "category": "info",
     "cooldownSec": 0
   },
   {
@@ -721,7 +721,7 @@
     "roles": [
       "broadcaster"
     ],
-    "category": "general",
+    "category": "fun",
     "cooldownSec": 0
   },
   {
@@ -731,7 +731,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "fun",
     "cooldownSec": 0
   },
   {
@@ -741,7 +741,7 @@
     "roles": [
       "broadcaster"
     ],
-    "category": "general",
+    "category": "alerts",
     "cooldownSec": 0
   },
   {
@@ -751,7 +751,7 @@
     "roles": [
       "broadcaster"
     ],
-    "category": "general",
+    "category": "alerts",
     "cooldownSec": 0
   },
   {
@@ -761,7 +761,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "moderation",
     "cooldownSec": 0
   },
   {
@@ -771,7 +771,7 @@
     "roles": [
       "broadcaster"
     ],
-    "category": "general",
+    "category": "fun",
     "cooldownSec": 0
   },
   {
@@ -781,7 +781,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "music",
     "cooldownSec": 0
   },
   {
@@ -791,7 +791,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "games",
     "cooldownSec": 0
   },
   {
@@ -801,7 +801,7 @@
     "roles": [
       "mod"
     ],
-    "category": "mod-tools",
+    "category": "moderation",
     "cooldownSec": 0
   },
   {
@@ -811,7 +811,7 @@
     "roles": [
       "mod"
     ],
-    "category": "mod-tools",
+    "category": "music",
     "cooldownSec": 0
   },
   {
@@ -821,7 +821,7 @@
     "roles": [
       "mod"
     ],
-    "category": "mod-tools",
+    "category": "music",
     "cooldownSec": 0
   },
   {
@@ -831,7 +831,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "queue",
     "cooldownSec": 0
   },
   {
@@ -841,7 +841,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "music",
     "cooldownSec": 0
   },
   {
@@ -851,7 +851,7 @@
     "roles": [
       "broadcaster"
     ],
-    "category": "general",
+    "category": "queue",
     "cooldownSec": 0
   },
   {
@@ -861,7 +861,7 @@
     "roles": [
       "broadcaster"
     ],
-    "category": "general",
+    "category": "queue",
     "cooldownSec": 0
   },
   {
@@ -871,7 +871,7 @@
     "roles": [
       "broadcaster"
     ],
-    "category": "general",
+    "category": "fun",
     "cooldownSec": 0
   },
   {
@@ -881,7 +881,7 @@
     "roles": [
       "broadcaster"
     ],
-    "category": "general",
+    "category": "fun",
     "cooldownSec": 0
   },
   {
@@ -891,7 +891,7 @@
     "roles": [
       "broadcaster"
     ],
-    "category": "general",
+    "category": "fun",
     "cooldownSec": 0
   },
   {
@@ -901,7 +901,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "info",
     "cooldownSec": 0
   },
   {
@@ -911,7 +911,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "info",
     "cooldownSec": 0
   },
   {
@@ -921,7 +921,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "info",
     "cooldownSec": 0
   },
   {
@@ -931,7 +931,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "fun",
     "cooldownSec": 0
   },
   {
@@ -941,7 +941,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "info",
     "cooldownSec": 0
   },
   {
@@ -951,7 +951,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "info",
     "cooldownSec": 0
   },
   {
@@ -961,7 +961,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "music",
     "cooldownSec": 0
   },
   {
@@ -971,7 +971,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "queue",
     "cooldownSec": 0
   },
   {
@@ -981,7 +981,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "music",
     "cooldownSec": 0
   },
   {
@@ -991,7 +991,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "queue",
     "cooldownSec": 0
   },
   {
@@ -1001,7 +1001,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "info",
     "cooldownSec": 0
   },
   {
@@ -1011,7 +1011,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "queue",
     "cooldownSec": 0
   },
   {
@@ -1021,7 +1021,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "music",
     "cooldownSec": 0
   },
   {
@@ -1031,7 +1031,7 @@
     "roles": [
       "mod"
     ],
-    "category": "general",
+    "category": "queue",
     "cooldownSec": 0
   }
 ]

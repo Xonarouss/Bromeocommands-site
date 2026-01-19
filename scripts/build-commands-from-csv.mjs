@@ -5,7 +5,7 @@ import path from 'path';
  * Build data/commands.json from data/commands.csv.
  *
  * CSV format expected:
- *   Command,Description,Aliases,Permissions
+ *   Command,Description,Category,Aliases,Permissions
  */
 
 const root = process.cwd();
@@ -47,17 +47,8 @@ function rolesFromPermissions(permStr) {
   return ['viewer'];
 }
 
-function inferCategory(command, description) {
-  const c = (command || '').toLowerCase();
-  const d = (description || '').toLowerCase();
-
-  if (c.startsWith('!challenge') || c.startsWith('!spin') || d.includes('challenge')) return 'challenge';
-  if (c.startsWith('!so') || c.includes('shoutout') || d.includes('shoutout')) return 'mod-tools';
-  if (c.startsWith('!ban') || c.startsWith('!timeout') || d.includes('ban') || d.includes('timeout')) return 'moderation';
-  if (/^!\d+$/.test(c)) return 'wheel';
-  if (c.includes('points') || d.includes('kanaalpunten')) return 'points';
-  if (c.includes('bits') || d.includes('bits')) return 'bits';
-  return 'general';
+function normalizeCategory(cat) {
+  return (cat || '').toString().trim().toLowerCase();
 }
 
 function titleFromCommand(command) {
@@ -129,9 +120,18 @@ const header = rows[0].map((h) => (h || '').trim().toLowerCase());
 const idx = {
   command: header.indexOf('command'),
   description: header.indexOf('description'),
+  category: header.indexOf('category'),
   aliases: header.indexOf('aliases'),
   permissions: header.indexOf('permissions')
 };
+
+// Hard requirement: categories must be explicitly defined in the CSV.
+if (idx.command < 0 || idx.description < 0 || idx.category < 0 || idx.permissions < 0) {
+  console.error(
+    'commands.csv must include the columns: Command, Description, Category, Aliases, Permissions (case-insensitive).'
+  );
+  process.exit(1);
+}
 
 function get(row, key) {
   const i = idx[key];
@@ -147,7 +147,12 @@ for (const r of rows.slice(1)) {
   const description = get(r, 'description');
   const aliases = splitList(get(r, 'aliases'));
   const roles = rolesFromPermissions(get(r, 'permissions'));
-  const category = inferCategory(command, description);
+  const category = normalizeCategory(get(r, 'category'));
+
+  if (!category) {
+    console.error(`Missing Category for command: ${command}`);
+    process.exit(1);
+  }
 
   items.push({
     command,
