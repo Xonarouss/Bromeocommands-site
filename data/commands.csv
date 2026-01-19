@@ -1,103 +1,103 @@
-Command,Description,Category,Aliases,Permissions
-!100,100,wheel,,Streamer; Mod; VIPS
-!25,25,wheel,,Streamer; Mod; VIPS
-!50,50,wheel,,Streamer; Mod; VIPS
-!75,75,wheel,,Streamer; Mod; VIPS
-!8ball,Ask the magic 8ball,games,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!account,StreamElements account info,info,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!bits,,info,,Streamer
-!bot,Bot info,info,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!BromeoASSIST,Talk to Chat GPT,ai,bromeoassist; assist,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!ch,Actieve Challenge herrinering,challenge,,Streamer
-!challenge 1 behaald,challenge 1 behaald,challenge,,Streamer; Mod; VIPS
-!challenge 1 gefaald,challenge 1 gefaald,challenge,,Streamer; Mod; VIPS
-!challenge 2 behaald,challenge 2 behaald,challenge,,Streamer; Mod; VIPS
-!challenge 2 gefaald,challenge 2 gefaald,challenge,,Streamer; Mod; VIPS
-!challenge 3 behaald,challenge 3 behaald,challenge,,Streamer; Mod; VIPS
-!challenge 3 gefaald,challenge 3 gefaald,challenge,,Streamer; Mod; VIPS
-!challenge 4 behaald,challenge 4 behaald,challenge,,Streamer; Mod; VIPS
-!challenge 4 gefaald,challenge 4 gefaald,challenge,,Streamer; Mod; VIPS
-!challenge 5 behaald,challenge 5 behaald,challenge,,Streamer; Mod; VIPS
-!challenge 5 gefaald,challenge 5 gefaald,challenge,,Streamer; Mod; VIPS
-!challenge 6 behaald,challenge 6 behaald,challenge,,Streamer; Mod; VIPS
-!challenge 6 gefaald,challenge 6 gefaald,challenge,,Streamer; Mod; VIPS
-!challenge 7 behaald,challenge 7 behaald,challenge,,Streamer; Mod; VIPS
-!challenge 7 gefaald,challenge 7gefaald,challenge,,Streamer; Mod; VIPS
-!challenge 8 behaald,challenge 8 behaald,challenge,,Streamer; Mod; VIPS
-!challenge 8 gefaald,challenge 8 gefaald,challenge,,Streamer; Mod; VIPS
-!challenge 9 behaald,challenge 9 behaald,challenge,,Streamer; Mod; VIPS
-!challenge 9 gefaald,challenge 9 gefaald,challenge,,Streamer; Mod; VIPS
-!challenge 10 behaald,challenge 10 behaald,challenge,,Streamer; Mod; VIPS
-!challenge 10 gefaald,challenge 10 gefaald,challenge,,Streamer; Mod; VIPS
-!commands,Link to supported commands,info,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!contest,Link to active contest,info,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!currentsong,Show current song,music,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!do-it-to-it,,fun,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!donate,,info,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!donation,,info,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!donatie,donatie,info,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!duels,Duel other chatters,games,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!emotes,BetterTTV emotes list,info,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!fireball,,games,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!followage,Shows follow duration,info,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!fortnite,fortnite,fortnite,,Streamer
-!fuck you,!fuck you,fun,late; laat,Streamer
-!gifts,,info,,Streamer
-!giveaway,Voer de huidige giveaway in,giveaway,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower
-!goeiemorgen,goeiemorgen,fun,goeiemorgen; morgen; get up; goedemorgen; goedenmorgen,Streamer
-!goeiemorgen2,goeiemorgen,fun,,Streamer
-!hawk-tuah-edm-remix,,fun,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!jumpscare,jumpscare,fun,,Streamer
-!lavender-haze,,fun,,Streamer
-!leaderboard,Link to leaderboard,info,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!lets-get-it-on,,fun,,Streamer
-!letsgo,letsgo,fun,,Streamer
-!lobby,NAAR LOBBY SCENE WISSELLEN,scenes,,Streamer
-!loyalty,Shows loyalty points,info,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!meedoen,in wachtrij stappen,queue,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower
-!meltdown,meltdown,fun,,Streamer
-!mincrown,crown minder,fortnite,,Streamer
-!mute,mute,moderation,,Streamer; Mod; VIPS
-!next,volgende in de wachtrij,queue,,Streamer
-!nextsong,Show next song,music,,Streamer; Mod
-!nieuwe-volger,,alerts,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!pablo,pablo,fun,,Streamer
-!pause,Pause music,music,,Streamer; Mod
-!pauze,pauze,music,,Streamer; Mod; VIPS
-!pedro-pedro-racoon-meme,,fun,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!pizza,pizza,fun,,Streamer
-!pizza2,pizza2,fun,,Streamer
-!play,play,music,,Streamer; Mod; VIPS
-!points,Shows points,info,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!politie,politie,fun,,Streamer
-!quote,Show a random quote,fun,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!reclame,reclame,alerts,,Streamer
-!reclame-volger,reclame volger,alerts,,Streamer
-!rename,Rename the bot,moderation,,Streamer; Mod
-!sad,emotioneel moment,fun,,Streamer
-!skip,Skip song,music,,Streamer; Mod
-!slots,Play slots,games,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!so,Send a shoutout to a user with !so user,moderation,,Streamer; Mod
-!songlist,Link to song list,music,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!songs,Link to song list,music,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!spot,spot,queue,,Streamer; Mod; VIPS
-!sr,Song request,music,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!start,Starten van de wachtrij,queue,,Streamer
-!stop,stoppen van de wachtrij,queue,,Streamer
-!suck on my,suck on my,fun,,Streamer
-!the-rock,the-rock,fun,,Streamer
-!timer,60 seconden timer,fun,,Streamer
-!tip,Link to tipping page,info,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!top,Top points list,info,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!tophours,Top hours watched,info,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!tri-poloski---party,,fun,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!uptime,Stream uptime,info,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!user,User stats,info,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!veto,Veto song,music,,Streamer; Mod
-!volgende,volgende,queue,,Streamer; Mod; VIPS
-!volume,Set volume,music,,Streamer; Mod
-!vorige,vorige,queue,,Streamer; Mod; VIPS
-!watchtime,Time watched,info,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
-!winner,Pick a winner,queue,,Streamer; Mod
-!wrongsong,Remove last song,music,,Streamer; Mod
-!zoek,zoek,queue,,Streamer; Mod; VIPS
+Command,Description,Aliases,Permissions
+!100,100,,Streamer; Mod; VIPS
+!25,25,,Streamer; Mod; VIPS
+!50,50,,Streamer; Mod; VIPS
+!75,75,,Streamer; Mod; VIPS
+!8ball,Ask the magic 8ball,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!account,StreamElements account info,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!bits,,,Streamer
+!bot,Bot info,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!BromeoASSIST,Talk to Chat GPT,"bromeoassist; assist",Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!ch,Actieve Challenge herrinering,,Streamer
+!challenge 1 behaald,challenge 1 behaald,,Streamer; Mod; VIPS
+!challenge 1 gefaald,challenge 1 gefaald,,Streamer; Mod; VIPS
+!challenge 2 behaald,challenge 2 behaald,,Streamer; Mod; VIPS
+!challenge 2 gefaald,challenge 2 gefaald,,Streamer; Mod; VIPS
+!challenge 3 behaald,challenge 3 behaald,,Streamer; Mod; VIPS
+!challenge 3 gefaald,challenge 3 gefaald,,Streamer; Mod; VIPS
+!challenge 4 behaald,challenge 4 behaald,,Streamer; Mod; VIPS
+!challenge 4 gefaald,challenge 4 gefaald,,Streamer; Mod; VIPS
+!challenge 5 behaald,challenge 5 behaald,,Streamer; Mod; VIPS
+!challenge 5 gefaald,challenge 5 gefaald,,Streamer; Mod; VIPS
+!challenge 6 behaald,challenge 6 behaald,,Streamer; Mod; VIPS
+!challenge 6 gefaald,challenge 6 gefaald,,Streamer; Mod; VIPS
+!challenge 7 behaald,challenge 7 behaald,,Streamer; Mod; VIPS
+!challenge 7 gefaald,challenge 7gefaald,,Streamer; Mod; VIPS
+!challenge 8 behaald,challenge 8 behaald,,Streamer; Mod; VIPS
+!challenge 8 gefaald,challenge 8 gefaald,,Streamer; Mod; VIPS
+!challenge 9 behaald,challenge 9 behaald,,Streamer; Mod; VIPS
+!challenge 9 gefaald,challenge 9 gefaald,,Streamer; Mod; VIPS
+!challenge 10 behaald,challenge 10 behaald,,Streamer; Mod; VIPS
+!challenge 10 gefaald,challenge 10 gefaald,,Streamer; Mod; VIPS
+!commands,Link to supported commands,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!contest,Link to active contest,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!currentsong,Show current song,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!do-it-to-it,,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!donate,,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!donation,,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!donatie,donatie,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!duels,Duel other chatters,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!emotes,BetterTTV emotes list,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!fireball,,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!followage,Shows follow duration,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!fortnite,fortnite,,Streamer
+!fuck you,!fuck you,"late; laat",Streamer
+!gifts,,,Streamer
+!giveaway,Voer de huidige giveaway in,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower
+!goeiemorgen,goeiemorgen,"goeiemorgen; morgen; get up; goedemorgen; goedenmorgen",Streamer
+!goeiemorgen2,goeiemorgen,,Streamer
+!hawk-tuah-edm-remix,,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!jumpscare,jumpscare,,Streamer
+!lavender-haze,,,Streamer
+!leaderboard,Link to leaderboard,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!lets-get-it-on,,,Streamer
+!letsgo,letsgo,,Streamer
+!lobby,NAAR LOBBY SCENE WISSELLEN,,Streamer
+!loyalty,Shows loyalty points,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!meedoen,in wachtrij stappen,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower
+!meltdown,meltdown,,Streamer
+!mincrown,crown minder,,Streamer
+!mute,mute,,Streamer; Mod; VIPS
+!next,volgende in de wachtrij,,Streamer
+!nextsong,Show next song,,Streamer; Mod
+!nieuwe-volger,,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!pablo,pablo,,Streamer
+!pause,Pause music,,Streamer; Mod
+!pauze,pauze,,Streamer; Mod; VIPS
+!pedro-pedro-racoon-meme,,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!pizza,pizza,,Streamer
+!pizza2,pizza2,,Streamer
+!play,play,,Streamer; Mod; VIPS
+!points,Shows points,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!politie,politie,,Streamer
+!quote,Show a random quote,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!reclame,reclame,,Streamer
+!reclame-volger,reclame volger,,Streamer
+!rename,Rename the bot,,Streamer; Mod
+!sad,emotioneel moment,,Streamer
+!skip,Skip song,,Streamer; Mod
+!slots,Play slots,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!so,Send a shoutout to a user with !so user,,Streamer; Mod
+!songlist,Link to song list,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!songs,Link to song list,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!spot,spot,,Streamer; Mod; VIPS
+!sr,Song request,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!start,Starten van de wachtrij,,Streamer
+!stop,stoppen van de wachtrij,,Streamer
+!suck on my,suck on my,,Streamer
+!the-rock,the-rock,,Streamer
+!timer,60 seconden timer,,Streamer
+!tip,Link to tipping page,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!top,Top points list,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!tophours,Top hours watched,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!tri-poloski---party,,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!uptime,Stream uptime,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!user,User stats,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!veto,Veto song,,Streamer; Mod
+!volgende,volgende,,Streamer; Mod; VIPS
+!volume,Set volume,,Streamer; Mod
+!vorige,vorige,,Streamer; Mod; VIPS
+!watchtime,Time watched,,Streamer; Mod; VIPS; Tier 3 Sub; Tier 2 Sub; Subscriber; Follower; Anyone
+!winner,Pick a winner,,Streamer; Mod
+!wrongsong,Remove last song,,Streamer; Mod
+!zoek,zoek,,Streamer; Mod; VIPS

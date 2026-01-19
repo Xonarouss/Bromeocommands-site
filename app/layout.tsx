@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "BromeoLIVE Command Center",
+  title: "BromeoLIVE Commands",
   description: "Commands, kanaalpunten en bits voor BromeoLIVE."
 };
 

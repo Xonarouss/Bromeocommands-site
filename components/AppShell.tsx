@@ -113,7 +113,7 @@ export default function AppShell() {
                 </div>
                 <div>
                   <h1 className="text-xl md:text-2xl font-extrabold tracking-tight">
-                    BromeoLIVE <span className="text-bromeo-gold">Command Center</span>
+                    BromeoLIVE <span className="text-bromeo-gold">Commands</span>
                   </h1>
                   <p className="text-sm text-zinc-300 mt-1">
                     Alles wat je kan activeren in chat: commands, kanaalpunten en bits — inclusief welke rollen wat mogen.

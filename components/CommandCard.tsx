@@ -10,8 +10,8 @@ type CommandItem = {
   description: string;
   roles: Role[];
   category?: string;
-  aliases?: string[];
   cooldownSec?: number;
+  aliases?: string[];
 };
 
 function prettyRole(r: Role) {
@@ -63,7 +63,7 @@ export default function CommandCard({
         <div className="mt-1 text-sm text-zinc-300">{item.description}</div>
         {item.aliases && item.aliases.length ? (
           <div className="mt-2 text-xs text-zinc-400">
-            <span className="font-semibold text-zinc-300">Aliases:</span> {item.aliases.map((a) => (a.startsWith('!') ? a : `!${a}`)).join(', ')}
+            Aliases: <span className="font-mono text-zinc-300">{item.aliases.join(', ')}</span>
           </div>
         ) : null}
       </div>
