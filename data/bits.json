@@ -1,1 +1,230 @@
-[]
+[
+  {
+    "title": "En Broccoli",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 20
+  },
+  {
+    "title": "HAHA Bier!",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 20
+  },
+  {
+    "title": "BOOP!",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 25
+  },
+  {
+    "title": "Godverdomme gezeik",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 25
+  },
+  {
+    "title": "Tyfushoer",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 25
+  },
+  {
+    "title": "Vieze Tyfuslijer",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 25
+  },
+  {
+    "title": "Niet toeteren godverdomme",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 50
+  },
+  {
+    "title": "Klap voor je kanus",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 75
+  },
+  {
+    "title": "5 Euro op je muil gauw",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 100
+  },
+  {
+    "title": "blood drip",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 100
+  },
+  {
+    "title": "fortnite-win",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 100
+  },
+  {
+    "title": "Kunstenaar - Alles Niets",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 100
+  },
+  {
+    "title": "Sidney - Dat is niet Gangsta",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 100
+  },
+  {
+    "title": "Sidney - Ik wil niet paardrijden",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 100
+  },
+  {
+    "title": "themask-drool",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 100
+  },
+  {
+    "title": "Water? Wil je mij vergiftigen ofzo?",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 100
+  },
+  {
+    "title": "aceventura-inspecting",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 150
+  },
+  {
+    "title": "Allemaal een voldoende",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 150
+  },
+  {
+    "title": "beautiful-in-an-ugly-way",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 150
+  },
+  {
+    "title": "Dance with my hands",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 150
+  },
+  {
+    "title": "Kunstenaar - Atelier",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 150
+  },
+  {
+    "title": "Engeltje Maikel",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 200
+  },
+  {
+    "title": "Ik loop alleen maar rondjes",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 200
+  },
+  {
+    "title": "ik wil kaas",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 200
+  },
+  {
+    "title": "Jeroen pas nou op met dat vuur",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 200
+  },
+  {
+    "title": "Kunstenaar - Gefelicteerd met Intervuuu",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 200
+  },
+  {
+    "title": "rickroll",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 200
+  },
+  {
+    "title": "you-are-dead",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 200
+  },
+  {
+    "title": "bloody-hand-jump-scare",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 250
+  },
+  {
+    "title": "Ghost girl",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 250
+  },
+  {
+    "title": "Little Girl scream",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 250
+  },
+  {
+    "title": "Poppy jumpscare",
+    "description": "Poppy jumpscare",
+    "category": "Twitch Extensions",
+    "costBits": 250
+  },
+  {
+    "title": "Riped face",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 250
+  },
+  {
+    "title": "screaming animal",
+    "description": "screaming animal",
+    "category": "Twitch Extensions",
+    "costBits": 250
+  },
+  {
+    "title": "zombie jumpscare",
+    "description": "zombie jumpscare",
+    "category": "Twitch Extensions",
+    "costBits": 250
+  },
+  {
+    "title": "Hello Darkness",
+    "description": "",
+    "category": "Twitch Extensions",
+    "costBits": 300
+  },
+  {
+    "title": "FREEZE: Bromeo mag 30 seconden niet meer bewegen",
+    "description": "Bromeo mag 30 seconden niet meer bewegen",
+    "category": "Twitch Extensions",
+    "costBits": 500
+  },
+  {
+    "title": "JAIL : Bromeo mag niet meer praten 60 seconden",
+    "description": "Bromeo mag 60 seconden niet meer praten!",
+    "category": "Twitch Extensions",
+    "costBits": 500
+  }
+]

@@ -1,1 +1,194 @@
-[]
+[
+  {
+    "title": "first",
+    "description": "Only one person can redeem this everytime you stream",
+    "category": "Fun",
+    "costPoints": 100
+  },
+  {
+    "title": "onlyonce",
+    "description": "Every user can only trigger this one time",
+    "category": "Fun",
+    "costPoints": 100
+  },
+  {
+    "title": "did-you-wash-yo-ass-today",
+    "description": "",
+    "category": "Fun",
+    "costPoints": 500
+  },
+  {
+    "title": "Hello There",
+    "description": "",
+    "category": "Fun",
+    "costPoints": 500
+  },
+  {
+    "title": "My name is Jeff",
+    "description": "my name is jeff",
+    "category": "Fun",
+    "costPoints": 500
+  },
+  {
+    "title": "You're Breath taking",
+    "description": "",
+    "category": "Fun",
+    "costPoints": 500
+  },
+  {
+    "title": "Bass",
+    "description": "",
+    "category": "Fun",
+    "costPoints": 800
+  },
+  {
+    "title": "Scherm Schoonmaken",
+    "description": "Speel overlay video af om beeld schoon te maken",
+    "category": "Fun",
+    "costPoints": 800
+  },
+  {
+    "title": "Sexy Time",
+    "description": "",
+    "category": "Fun",
+    "costPoints": 800
+  },
+  {
+    "title": "Dont Kays",
+    "description": "",
+    "category": "Fun",
+    "costPoints": 999
+  },
+  {
+    "title": "Hardcore Kays",
+    "description": "",
+    "category": "Fun",
+    "costPoints": 1000
+  },
+  {
+    "title": "Herinnering aan Actieve Challenge!!",
+    "description": "Herinnering aan Actieve Challenge!",
+    "category": "Challenge",
+    "costPoints": 1000
+  },
+  {
+    "title": "Nighttime Daytime",
+    "description": "",
+    "category": "Fun",
+    "costPoints": 1000
+  },
+  {
+    "title": "politie",
+    "description": "",
+    "category": "Fun",
+    "costPoints": 1000
+  },
+  {
+    "title": "Sneeuwbal gooien",
+    "description": "Activeer sneeuwbal overlay voor scherm van Bromeo (blokkeer zicht)",
+    "category": "Fun",
+    "costPoints": 1000
+  },
+  {
+    "title": "Tekst naar Spraak: NL",
+    "description": "Stuur een bericht om af te laten spelen. Let op scheldwoorden en racistische uitspraken kunnen timeout of ban opleveren",
+    "category": "Utility",
+    "costPoints": 1000
+  },
+  {
+    "title": "Harder Faster Stronger",
+    "description": "",
+    "category": "Fun",
+    "costPoints": 1500
+  },
+  {
+    "title": "Noot Noot",
+    "description": "Speel overlay video af van Noot Noot",
+    "category": "Fun",
+    "costPoints": 1500
+  },
+  {
+    "title": "Oh No You Didnt",
+    "description": "",
+    "category": "Fun",
+    "costPoints": 1500
+  },
+  {
+    "title": "Tekno Nani",
+    "description": "",
+    "category": "Fun",
+    "costPoints": 1500
+  },
+  {
+    "title": "Niko Niko Nii Dubstep",
+    "description": "",
+    "category": "Fun",
+    "costPoints": 1900
+  },
+  {
+    "title": "Booty Shake",
+    "description": "Booty Shake",
+    "category": "Fun",
+    "costPoints": 2000
+  },
+  {
+    "title": "deadpool-fuckyou",
+    "description": "",
+    "category": "Fun",
+    "costPoints": 2000
+  },
+  {
+    "title": "its corn",
+    "description": "",
+    "category": "Fun",
+    "costPoints": 2000
+  },
+  {
+    "title": "Miss Santa",
+    "description": "Speel Overlay Video af op de beeldscherm van Bromeo (Blokkeer zicht)",
+    "category": "Fun",
+    "costPoints": 2000
+  },
+  {
+    "title": "replay",
+    "description": "Replay",
+    "category": "Replay",
+    "costPoints": 2000
+  },
+  {
+    "title": "Yodel",
+    "description": "",
+    "category": "Fun",
+    "costPoints": 2000
+  },
+  {
+    "title": "Jumpscare",
+    "description": "jumpscare",
+    "category": "Fun",
+    "costPoints": 2500
+  },
+  {
+    "title": "Squad game Party",
+    "description": "",
+    "category": "Fun",
+    "costPoints": 2500
+  },
+  {
+    "title": "afleiding",
+    "description": "afleiding",
+    "category": "Fun",
+    "costPoints": 3000
+  },
+  {
+    "title": "INSTANT REPLAY",
+    "description": "Instant replay",
+    "category": "Replay",
+    "costPoints": 5000
+  },
+  {
+    "title": "challenge",
+    "description": "Spinnen voor Challenge",
+    "category": "Challenge",
+    "costPoints": 20000
+  }
+]

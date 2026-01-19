@@ -6,6 +6,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -15,6 +16,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -24,6 +26,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -33,6 +36,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -42,6 +46,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -51,6 +56,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -60,6 +66,7 @@
     "roles": [
       "broadcaster"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -69,6 +76,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -78,6 +86,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "aliases": [
       "bromeoassist",
       "assist"
@@ -91,6 +100,7 @@
     "roles": [
       "broadcaster"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -100,6 +110,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -109,6 +120,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -118,6 +130,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -127,6 +140,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -136,6 +150,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -145,6 +160,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -154,6 +170,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -163,6 +180,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -172,6 +190,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -181,6 +200,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -190,6 +210,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -199,6 +220,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -208,6 +230,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -217,6 +240,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -226,6 +250,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -235,6 +260,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -244,6 +270,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -253,6 +280,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -262,6 +290,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -271,6 +300,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -280,6 +310,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -289,6 +320,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -298,6 +330,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -307,6 +340,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -316,6 +350,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -325,6 +360,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -334,6 +370,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -343,6 +380,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -352,6 +390,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -361,6 +400,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -370,6 +410,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -379,6 +420,7 @@
     "roles": [
       "broadcaster"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -388,6 +430,7 @@
     "roles": [
       "broadcaster"
     ],
+    "category": "Commands",
     "aliases": [
       "late",
       "laat"
@@ -401,6 +444,7 @@
     "roles": [
       "broadcaster"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -410,6 +454,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -419,6 +464,7 @@
     "roles": [
       "broadcaster"
     ],
+    "category": "Commands",
     "aliases": [
       "goeiemorgen",
       "morgen",
@@ -435,6 +481,7 @@
     "roles": [
       "broadcaster"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -444,6 +491,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -453,6 +501,7 @@
     "roles": [
       "broadcaster"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -462,6 +511,7 @@
     "roles": [
       "broadcaster"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -471,6 +521,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -480,6 +531,7 @@
     "roles": [
       "broadcaster"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -489,6 +541,7 @@
     "roles": [
       "broadcaster"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -498,6 +551,7 @@
     "roles": [
       "broadcaster"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -507,6 +561,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -516,6 +571,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -525,6 +581,7 @@
     "roles": [
       "broadcaster"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -534,6 +591,7 @@
     "roles": [
       "broadcaster"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -543,6 +601,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -552,6 +611,7 @@
     "roles": [
       "broadcaster"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -561,6 +621,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -570,6 +631,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -579,6 +641,7 @@
     "roles": [
       "broadcaster"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -588,6 +651,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -597,6 +661,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -606,6 +671,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -615,6 +681,7 @@
     "roles": [
       "broadcaster"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -624,6 +691,7 @@
     "roles": [
       "broadcaster"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -633,6 +701,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -642,6 +711,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -651,6 +721,7 @@
     "roles": [
       "broadcaster"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -660,6 +731,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -669,6 +741,7 @@
     "roles": [
       "broadcaster"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -678,6 +751,7 @@
     "roles": [
       "broadcaster"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -687,6 +761,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -696,6 +771,7 @@
     "roles": [
       "broadcaster"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -705,6 +781,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -714,6 +791,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -723,6 +801,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -732,6 +811,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -741,6 +821,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -750,6 +831,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -759,6 +841,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -768,6 +851,7 @@
     "roles": [
       "broadcaster"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -777,6 +861,7 @@
     "roles": [
       "broadcaster"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -786,6 +871,7 @@
     "roles": [
       "broadcaster"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -795,6 +881,7 @@
     "roles": [
       "broadcaster"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -804,6 +891,7 @@
     "roles": [
       "broadcaster"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -813,6 +901,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -822,6 +911,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -831,6 +921,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -840,6 +931,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -849,6 +941,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -858,6 +951,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -867,6 +961,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -876,6 +971,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -885,6 +981,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -894,6 +991,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -903,6 +1001,7 @@
     "roles": [
       "viewer"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -912,6 +1011,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -921,6 +1021,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   },
   {
@@ -930,6 +1031,7 @@
     "roles": [
       "mod"
     ],
+    "category": "Commands",
     "cooldownSec": 0
   }
 ]
