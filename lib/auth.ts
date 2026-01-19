@@ -6,6 +6,7 @@ import TwitchProvider from 'next-auth/providers/twitch';
 const twitchScopes = ['openid', 'user:read:email', 'user:read:subscriptions'];
 
 export const authOptions: NextAuthOptions = {
+  secret: process.env.AUTH_SECRET || process.env.NEXTAUTH_SECRET,
   providers: [
     TwitchProvider({
       clientId: process.env.TWITCH_CLIENT_ID!,

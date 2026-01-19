@@ -5,7 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "next dev",
+    "predev": "node scripts/build-commands-from-csv.mjs",
     "build": "next build",
+    "prebuild": "node scripts/build-commands-from-csv.mjs",
     "start": "node .next/standalone/server.js",
     "lint": "next lint",
     "postbuild": "mkdir -p .next/standalone/.next && cp -r .next/static .next/standalone/.next/static && cp -r public .next/standalone/public"

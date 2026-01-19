@@ -1,18 +1,1037 @@
 [
   {
-    "command": "!spin",
-    "title": "Spin het challenge rad",
-    "description": "Draait het rad en start de gekozen challenge.",
-    "roles": ["viewer"],
-    "category": "challenge",
-    "cooldownSec": 30
+    "command": "!100",
+    "title": "100",
+    "description": "100",
+    "roles": [
+      "mod"
+    ],
+    "category": "wheel",
+    "cooldownSec": 0
   },
   {
-    "command": "!spin challenge",
-    "title": "Respin (mods)",
-    "description": "Mods kunnen het rad opnieuw draaien (bij bug / verkeerde uitkomst).",
-    "roles": ["mod"],
+    "command": "!25",
+    "title": "25",
+    "description": "25",
+    "roles": [
+      "mod"
+    ],
+    "category": "wheel",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!50",
+    "title": "50",
+    "description": "50",
+    "roles": [
+      "mod"
+    ],
+    "category": "wheel",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!75",
+    "title": "75",
+    "description": "75",
+    "roles": [
+      "mod"
+    ],
+    "category": "wheel",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!8ball",
+    "title": "8ball",
+    "description": "Ask the magic 8ball",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!account",
+    "title": "Account",
+    "description": "StreamElements account info",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!bits",
+    "title": "Bits",
+    "description": "",
+    "roles": [
+      "broadcaster"
+    ],
+    "category": "bits",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!bot",
+    "title": "Bot",
+    "description": "Bot info",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!BromeoASSIST",
+    "title": "BromeoASSIST",
+    "description": "Talk to Chat GPT",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0,
+    "aliases": [
+      "bromeoassist",
+      "assist"
+    ]
+  },
+  {
+    "command": "!ch",
+    "title": "Ch",
+    "description": "Actieve Challenge herrinering",
+    "roles": [
+      "broadcaster"
+    ],
+    "category": "challenge",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!challenge 1 behaald",
+    "title": "Challenge 1 behaald",
+    "description": "challenge 1 behaald",
+    "roles": [
+      "mod"
+    ],
+    "category": "challenge",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!challenge 1 gefaald",
+    "title": "Challenge 1 gefaald",
+    "description": "challenge 1 gefaald",
+    "roles": [
+      "mod"
+    ],
+    "category": "challenge",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!challenge 10 behaald",
+    "title": "Challenge 10 behaald",
+    "description": "challenge 10 behaald",
+    "roles": [
+      "mod"
+    ],
+    "category": "challenge",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!challenge 10 gefaald",
+    "title": "Challenge 10 gefaald",
+    "description": "challenge 10 gefaald",
+    "roles": [
+      "mod"
+    ],
+    "category": "challenge",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!challenge 2 behaald",
+    "title": "Challenge 2 behaald",
+    "description": "challenge 2 behaald",
+    "roles": [
+      "mod"
+    ],
+    "category": "challenge",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!challenge 2 gefaald",
+    "title": "Challenge 2 gefaald",
+    "description": "challenge 2 gefaald",
+    "roles": [
+      "mod"
+    ],
+    "category": "challenge",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!challenge 3 behaald",
+    "title": "Challenge 3 behaald",
+    "description": "challenge 3 behaald",
+    "roles": [
+      "mod"
+    ],
+    "category": "challenge",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!challenge 3 gefaald",
+    "title": "Challenge 3 gefaald",
+    "description": "challenge 3 gefaald",
+    "roles": [
+      "mod"
+    ],
+    "category": "challenge",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!challenge 4 behaald",
+    "title": "Challenge 4 behaald",
+    "description": "challenge 4 behaald",
+    "roles": [
+      "mod"
+    ],
+    "category": "challenge",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!challenge 4 gefaald",
+    "title": "Challenge 4 gefaald",
+    "description": "challenge 4 gefaald",
+    "roles": [
+      "mod"
+    ],
+    "category": "challenge",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!challenge 5 behaald",
+    "title": "Challenge 5 behaald",
+    "description": "challenge 5 behaald",
+    "roles": [
+      "mod"
+    ],
+    "category": "challenge",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!challenge 5 gefaald",
+    "title": "Challenge 5 gefaald",
+    "description": "challenge 5 gefaald",
+    "roles": [
+      "mod"
+    ],
+    "category": "challenge",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!challenge 6 behaald",
+    "title": "Challenge 6 behaald",
+    "description": "challenge 6 behaald",
+    "roles": [
+      "mod"
+    ],
+    "category": "challenge",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!challenge 6 gefaald",
+    "title": "Challenge 6 gefaald",
+    "description": "challenge 6 gefaald",
+    "roles": [
+      "mod"
+    ],
+    "category": "challenge",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!challenge 7 behaald",
+    "title": "Challenge 7 behaald",
+    "description": "challenge 7 behaald",
+    "roles": [
+      "mod"
+    ],
+    "category": "challenge",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!challenge 7 gefaald",
+    "title": "Challenge 7 gefaald",
+    "description": "challenge 7gefaald",
+    "roles": [
+      "mod"
+    ],
+    "category": "challenge",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!challenge 8 behaald",
+    "title": "Challenge 8 behaald",
+    "description": "challenge 8 behaald",
+    "roles": [
+      "mod"
+    ],
+    "category": "challenge",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!challenge 8 gefaald",
+    "title": "Challenge 8 gefaald",
+    "description": "challenge 8 gefaald",
+    "roles": [
+      "mod"
+    ],
+    "category": "challenge",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!challenge 9 behaald",
+    "title": "Challenge 9 behaald",
+    "description": "challenge 9 behaald",
+    "roles": [
+      "mod"
+    ],
+    "category": "challenge",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!challenge 9 gefaald",
+    "title": "Challenge 9 gefaald",
+    "description": "challenge 9 gefaald",
+    "roles": [
+      "mod"
+    ],
+    "category": "challenge",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!commands",
+    "title": "Commands",
+    "description": "Link to supported commands",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!contest",
+    "title": "Contest",
+    "description": "Link to active contest",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!currentsong",
+    "title": "Currentsong",
+    "description": "Show current song",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!do-it-to-it",
+    "title": "Do-it-to-it",
+    "description": "",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!donate",
+    "title": "Donate",
+    "description": "",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!donatie",
+    "title": "Donatie",
+    "description": "donatie",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!donation",
+    "title": "Donation",
+    "description": "",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!duels",
+    "title": "Duels",
+    "description": "Duel other chatters",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!emotes",
+    "title": "Emotes",
+    "description": "BetterTTV emotes list",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!fireball",
+    "title": "Fireball",
+    "description": "",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!followage",
+    "title": "Followage",
+    "description": "Shows follow duration",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!fortnite",
+    "title": "Fortnite",
+    "description": "fortnite",
+    "roles": [
+      "broadcaster"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!fuck you",
+    "title": "Fuck you",
+    "description": "!fuck you",
+    "roles": [
+      "broadcaster"
+    ],
+    "category": "general",
+    "cooldownSec": 0,
+    "aliases": [
+      "late",
+      "laat"
+    ]
+  },
+  {
+    "command": "!gifts",
+    "title": "Gifts",
+    "description": "",
+    "roles": [
+      "broadcaster"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!giveaway",
+    "title": "Giveaway",
+    "description": "Voer de huidige giveaway in",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!goeiemorgen",
+    "title": "Goeiemorgen",
+    "description": "goeiemorgen",
+    "roles": [
+      "broadcaster"
+    ],
+    "category": "general",
+    "cooldownSec": 0,
+    "aliases": [
+      "goeiemorgen",
+      "morgen",
+      "get up",
+      "goedemorgen",
+      "goedenmorgen"
+    ]
+  },
+  {
+    "command": "!goeiemorgen2",
+    "title": "Goeiemorgen2",
+    "description": "goeiemorgen",
+    "roles": [
+      "broadcaster"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!hawk-tuah-edm-remix",
+    "title": "Hawk-tuah-edm-remix",
+    "description": "",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!jumpscare",
+    "title": "Jumpscare",
+    "description": "jumpscare",
+    "roles": [
+      "broadcaster"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!lavender-haze",
+    "title": "Lavender-haze",
+    "description": "",
+    "roles": [
+      "broadcaster"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!leaderboard",
+    "title": "Leaderboard",
+    "description": "Link to leaderboard",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!lets-get-it-on",
+    "title": "Lets-get-it-on",
+    "description": "",
+    "roles": [
+      "broadcaster"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!letsgo",
+    "title": "Letsgo",
+    "description": "letsgo",
+    "roles": [
+      "broadcaster"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!lobby",
+    "title": "Lobby",
+    "description": "NAAR LOBBY SCENE WISSELLEN",
+    "roles": [
+      "broadcaster"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!loyalty",
+    "title": "Loyalty",
+    "description": "Shows loyalty points",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!meedoen",
+    "title": "Meedoen",
+    "description": "in wachtrij stappen",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!meltdown",
+    "title": "Meltdown",
+    "description": "meltdown",
+    "roles": [
+      "broadcaster"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!mincrown",
+    "title": "Mincrown",
+    "description": "crown minder",
+    "roles": [
+      "broadcaster"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!mute",
+    "title": "Mute",
+    "description": "mute",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!next",
+    "title": "Next",
+    "description": "volgende in de wachtrij",
+    "roles": [
+      "broadcaster"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!nextsong",
+    "title": "Nextsong",
+    "description": "Show next song",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!nieuwe-volger",
+    "title": "Nieuwe-volger",
+    "description": "",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!pablo",
+    "title": "Pablo",
+    "description": "pablo",
+    "roles": [
+      "broadcaster"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!pause",
+    "title": "Pause",
+    "description": "Pause music",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!pauze",
+    "title": "Pauze",
+    "description": "pauze",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!pedro-pedro-racoon-meme",
+    "title": "Pedro-pedro-racoon-meme",
+    "description": "",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!pizza",
+    "title": "Pizza",
+    "description": "pizza",
+    "roles": [
+      "broadcaster"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!pizza2",
+    "title": "Pizza2",
+    "description": "pizza2",
+    "roles": [
+      "broadcaster"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!play",
+    "title": "Play",
+    "description": "play",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!points",
+    "title": "Points",
+    "description": "Shows points",
+    "roles": [
+      "mod"
+    ],
+    "category": "points",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!politie",
+    "title": "Politie",
+    "description": "politie",
+    "roles": [
+      "broadcaster"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!quote",
+    "title": "Quote",
+    "description": "Show a random quote",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!reclame",
+    "title": "Reclame",
+    "description": "reclame",
+    "roles": [
+      "broadcaster"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!reclame-volger",
+    "title": "Reclame-volger",
+    "description": "reclame volger",
+    "roles": [
+      "broadcaster"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!rename",
+    "title": "Rename",
+    "description": "Rename the bot",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!sad",
+    "title": "Sad",
+    "description": "emotioneel moment",
+    "roles": [
+      "broadcaster"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!skip",
+    "title": "Skip",
+    "description": "Skip song",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!slots",
+    "title": "Slots",
+    "description": "Play slots",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!so",
+    "title": "So",
+    "description": "Send a shoutout to a user with !so user",
+    "roles": [
+      "mod"
+    ],
     "category": "mod-tools",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!songlist",
+    "title": "Songlist",
+    "description": "Link to song list",
+    "roles": [
+      "mod"
+    ],
+    "category": "mod-tools",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!songs",
+    "title": "Songs",
+    "description": "Link to song list",
+    "roles": [
+      "mod"
+    ],
+    "category": "mod-tools",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!spot",
+    "title": "Spot",
+    "description": "spot",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!sr",
+    "title": "Sr",
+    "description": "Song request",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!start",
+    "title": "Start",
+    "description": "Starten van de wachtrij",
+    "roles": [
+      "broadcaster"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!stop",
+    "title": "Stop",
+    "description": "stoppen van de wachtrij",
+    "roles": [
+      "broadcaster"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!suck on my",
+    "title": "Suck on my",
+    "description": "suck on my",
+    "roles": [
+      "broadcaster"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!the-rock",
+    "title": "The-rock",
+    "description": "the-rock",
+    "roles": [
+      "broadcaster"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!timer",
+    "title": "Timer",
+    "description": "60 seconden timer",
+    "roles": [
+      "broadcaster"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!tip",
+    "title": "Tip",
+    "description": "Link to tipping page",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!top",
+    "title": "Top",
+    "description": "Top points list",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!tophours",
+    "title": "Tophours",
+    "description": "Top hours watched",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!tri-poloski---party",
+    "title": "Tri-poloski---party",
+    "description": "",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!uptime",
+    "title": "Uptime",
+    "description": "Stream uptime",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!user",
+    "title": "User",
+    "description": "User stats",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!veto",
+    "title": "Veto",
+    "description": "Veto song",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!volgende",
+    "title": "Volgende",
+    "description": "volgende",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!volume",
+    "title": "Volume",
+    "description": "Set volume",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!vorige",
+    "title": "Vorige",
+    "description": "vorige",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!watchtime",
+    "title": "Watchtime",
+    "description": "Time watched",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!winner",
+    "title": "Winner",
+    "description": "Pick a winner",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!wrongsong",
+    "title": "Wrongsong",
+    "description": "Remove last song",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
+    "cooldownSec": 0
+  },
+  {
+    "command": "!zoek",
+    "title": "Zoek",
+    "description": "zoek",
+    "roles": [
+      "mod"
+    ],
+    "category": "general",
     "cooldownSec": 0
   }
 ]
